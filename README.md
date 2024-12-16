@@ -1,7 +1,7 @@
 <h1 align="center">Datacamp Projects</h1>
 <p align="center">
 A collection of my solutions to Python data science projects from Datacamp.<br><br>
-<a href="">Report Bug</a>
+<a href="https://github.com/algorithmicprogrammer/datacamp-projects/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
 .
 <a href="https://github.com/algorithmicprogrammer/datacamp-projects/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
 </p>
