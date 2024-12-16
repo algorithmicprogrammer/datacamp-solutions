@@ -3,7 +3,7 @@
 A collection of my solutions to Python data science projects from Datacamp.<br><br>
 <a href="">Report Bug</a>
 .
-<a href="">Request Feature</a>
+<a href="https://github.com/algorithmicprogrammer/datacamp-projects/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
 </p>
 
 # Technologies Used
