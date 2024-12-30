@@ -17,6 +17,14 @@ A collection of my solutions to Python data science projects from Datacamp.<br><
 <a href="https://github.com/algorithmicprogrammer/datacamp-projects/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
 </p>
 
+<details>
+<summary>Table of Contents</summary>
+<ol>
+<li><a href="#technologies-used">Technologies Used</a></li>
+<li><a href="#folder-structure">Folder Structure</a></li>
+</ol>
+</details>
+
 # Technologies Used
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter"></code>
